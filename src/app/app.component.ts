@@ -7,5 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'app';
-  private homePageImage = require("./images/original.jpg")
+  private homePageImage = require("./images/cars.jpg");
 }
